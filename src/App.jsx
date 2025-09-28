@@ -87,6 +87,17 @@ function App() {
           </div>
         </div>
       </nav>
+      <main>
+        <div className="text-box">
+          <h2>Gofurov Ozodbek</h2>
+          <p>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia
+            nostrum itaque eligendi earum reprehenderit odio eos qui.
+            Voluptates, animi eum.
+          </p>
+          <button>More Information</button>
+        </div>
+      </main>
     </div>
   );
 }
